@@ -4,3 +4,4 @@ Este projeto de impressora 3D FDM/FFF é um remix de diferentes máquinas com as
 
 Após modificar impressoras de outras empresas para atender às nossas necessidades, decidi criar meu próprio hardware para odontologia.
 
+![impressora_views](https://github.com/user-attachments/assets/71120286-d62d-468a-93dc-4f582086e029)
