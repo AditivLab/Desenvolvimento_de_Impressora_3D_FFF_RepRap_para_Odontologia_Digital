@@ -14,4 +14,4 @@ https://reprap.org/wiki/Proton
 
 abdrumm/printrbotdesigns
 
-https://github.com/josefprusa
+josefprusa/PrusaMendel
