@@ -12,6 +12,6 @@ http://www.reprap.org
 
 https://reprap.org/wiki/Proton
 
-abdrumm/printrbotdesigns
+owner/name abdrumm/printrbotdesigns
 
 https://github.com/josefprusa
