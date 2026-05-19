@@ -8,6 +8,9 @@ Após modificar impressoras de outras empresas para atender às nossas necessida
 
 REFERÊNCIAS:
 http://www.reprap.org
+
 https://reprap.org/wiki/Proton
+
 abdrumm/printrbotdesigns
+
 https://github.com/josefprusa
