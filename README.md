@@ -6,3 +6,8 @@ Após modificar impressoras de outras empresas para atender às nossas necessida
 
 ![impressora_views](https://github.com/user-attachments/assets/620a909e-b73f-4704-9eaf-2d219eb4e6ac)
 
+REFERÊNCIAS:
+http://www.reprap.org
+https://reprap.org/wiki/Proton
+abdrumm/printrbotdesigns
+https://github.com/josefprusa
