@@ -1,4 +1,4 @@
-# **Desenvolvimento de impressora 3D FFF RepRap para Odontologia Digital**
+# **Desenvolvimento de impressora 3D FFF "RepRap" para Odontologia Digital**
 
 Este projeto de impressora 3D FDM/FFF é um "remix" de diferentes máquinas com as quais tive a oportunidade de trabalhar. (Ultimaker de madeira, Printrbot Simple Metal, Proton, Ender PRO, 3D Lopes, Prusa MK3 e UPrint da Stratasys).
 
