@@ -1,4 +1,4 @@
-LINK PARA DOWNLOAD DO PROJETO EM BLENDER (*.blend) E 3DSMAX (*.fbx). O projeto original foi feito em 3dsMax , sendo assim podem ocorrer incompatibilidades no blender:
+LINK PARA DOWNLOAD DO PROJETO (*.obj E *.fbx). O projeto original foi feito em 3dsMax , sendo assim podem ocorrer incompatibilidades no blender:
 
 https://aditiv-lab.filemail.com/d/yxicfoulkusyxwl
  
